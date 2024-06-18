@@ -5,8 +5,7 @@ Thumbs.db
 
 *.log
 
-
-src/config/database.php
+.env
 
 /public/uploads/
 
