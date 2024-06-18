@@ -1,0 +1,17 @@
+.DS_Store
+Thumbs.db
+
+/vendor
+
+*.log
+
+
+src/config/database.php
+
+/public/uploads/
+
+.env
+
+.tmp
+.temp
+
