@@ -6,7 +6,7 @@ class FileValidator {
 
     public function __construct() {
         $this->allowedExtensions = ['doc', 'docx', 'pdf'];
-        $this->fileSizeLimit = 1048576; // 1MB in bytes
+        $this->fileSizeLimit = 1048576; 
     }
 
     public function validate($file) {
