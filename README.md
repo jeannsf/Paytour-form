@@ -87,6 +87,3 @@ Sinta-se à vontade para contribuir com melhorias para este projeto. Abra uma is
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
----
-
-Adapte as seções conforme necessário para refletir as peculiaridades do seu projeto. Certifique-se de incluir informações suficientes para que qualquer desenvolvedor possa entender e usar sua aplicação de forma eficaz.
