@@ -9,7 +9,7 @@
 <body>
     <div class="container">
         <h1 class="mt-5">Formulário de Envio de Currículo</h1>
-        <form action="processa_formulario.php" method="post" enctype="multipart/form-data" class="needs-validation" novalidate>
+        <form action="/form/src/processa_formulario.php" method="post" enctype="multipart/form-data" class="needs-validation" novalidate>
             <div class="form-group">
                 <label for="nome">Nome:</label>
                 <input type="text" class="form-control" id="nome" name="nome" required>
